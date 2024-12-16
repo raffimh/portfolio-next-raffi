@@ -16,7 +16,7 @@ const footerLinks = [
   },
   {
     title: "LinkedIn",
-    url: "#",
+    url: "https://linkedin.com/in/raffimaulana",
   },
 ];
 
