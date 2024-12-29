@@ -2,6 +2,7 @@ import rafsakaos from "@/assets/images/rafsakaos.png";
 import kinex from "@/assets/images/kinex.png";
 import indomas from "@/assets/images/indomas.png";
 import rfa from "@/assets/images/rfa.png";
+import monaz from "@/assets/images/monaz.png";
 import Link from "next/link";
 import Image from "next/image";
 import CheckCircleIcon from "@/assets/icons/check-circle.svg";
@@ -58,6 +59,18 @@ const portfolioProjects = [
     link: "https://indomasniagalestari.co.id/",
     image: indomas,
   },
+  {
+    company: "Monaz Interior",
+    year: "2024",
+    title: "Company Profile Monaz",
+    results: [
+      { title: "Increased mobile traffic by 30%" },
+      { title: "Expanded customer reach by 45%" },
+      { title: "Increased brand awareness by 30%" },
+    ],
+    link: "#",
+    image: monaz,
+  }
 ];
 
 export const ProjectsSection = () => {

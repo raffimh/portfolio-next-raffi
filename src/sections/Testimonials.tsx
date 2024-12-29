@@ -2,6 +2,8 @@ import memojiAvatar1 from "@/assets/images/rafsakaos-icon.png";
 import memojiAvatar2 from "@/assets/images/kinexicon.png";
 import memojiAvatar3 from "@/assets/images/indomasicon.png";
 import memojiAvatar4 from "@/assets/images/rfaicon.png";
+import memojiAvatar5 from "@/assets/images/monazLogo.png";
+
 import { SectionHeader } from "@/components/SectionHeader";
 import Image from "next/image";
 import { Card } from "@/components/Card";
@@ -31,6 +33,12 @@ const testimonials = [
     position: "Company Profile Website",
     text: "Raffi did an outstanding job on our company profile website. His attention to detail and ability to understand our requirements made the process smooth and efficient. We highly recommend his services.",
     avatar: memojiAvatar4,
+  },
+  {
+    name: "Monaz Interior",
+    position: "Company Profile Website",
+    text: "Raffi is a true professional who is passionate about his work. He created a stunning website for our company that has helped us attract new clients and grow our business. We are extremely satisfied with the results.",
+    avatar: memojiAvatar5,
   },
 ];
 
