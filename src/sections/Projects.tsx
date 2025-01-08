@@ -68,7 +68,7 @@ const portfolioProjects = [
       { title: "Expanded customer reach by 45%" },
       { title: "Increased brand awareness by 30%" },
     ],
-    link: "#",
+    link: "https://monazinterior.com",
     image: monaz,
   }
 ];
